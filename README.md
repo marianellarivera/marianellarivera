@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋,Me llamo Marianella Rivera</h1>
-<h3 align="center">Soy desarrollador fronted</h3>
+<h3 align="center">Soy desarrollador Frontend</h3>
 
 - 👨‍💻 All of my projects are available at [marianellarivera.com](marianellarivera.com)
 
